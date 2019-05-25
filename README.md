@@ -11,12 +11,15 @@ Built on top of numpy and PIL.
 
 Some examples:
 
-**My Machine Learning textbook**:
+**A Machine Learning textbook**:
 ![](https://i.imgur.com/30NYFqm.jpg)
 
 
 **zip binary**:
 ![](https://i.imgur.com/9A7PmJM.png)
+
+**hexdump binary** (hexpaint of hexdump):
+![](https://i.imgur.com/UiGPxlS.png)
 
 
 If you have any ideas on making the visualizations more interesting, let me know!
