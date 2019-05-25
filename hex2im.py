@@ -2,7 +2,6 @@ import numpy as np
 from subprocess import call 
 import sys
 from PIL import Image
-import cv2
 
 #TODO: Make these user input
 IM_MAX_H = 1080
